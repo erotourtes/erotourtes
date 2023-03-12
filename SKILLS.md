@@ -36,10 +36,10 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
+| 🟪 Procedural programming      | 🟩 constructor        | 🟩 struct, record    | 🟩 Singleton             |
 | 🟩 Imperative programming      | 🟩 new                | 🟩 Mutable state     |                          |
-| 🟦 Structured programming      | 🟩 Static method      | 🟩 Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟩 Method             | 🟩 Enum              |                          |
+| 🟩 Structured programming      | 🟩 Static method      | 🟩 Immutable state   |                          |
+| 🟩 Non-structured programming (goto) | 🟩 Method             | 🟩 Enum              |                          |
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       |                          |
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       |                          |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟦 Unrolled list     |                          |
@@ -72,7 +72,7 @@
 | 🟩 Thenable            | 🟩 Atomics                     | ⬜ kqueue           | 🟩 Promise.any           |
 | 🟩 EventEmitter        | 🟩 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
 | ⬜ Cancelable callback | 🟦 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
-| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟦 libuv            | 🟩 Thread Pool           |
+| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | 🟩 Thread Pool           |
 | 🟦 Asynchronous Queue  | 🟩 Callback hell               | 🟩 Race conditions  | 🟦 callbackify           |
 | ⬜ Future              | 🟩 Promise hell                | 🟦 Dead locks       | 🟩 promisify             |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
