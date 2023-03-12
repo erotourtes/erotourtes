@@ -1,4 +1,8 @@
 # Personal profile of software engineering skills
+---
+[Useful dictionary](https://github.com/HowProgrammingWorks/Dictionary)
+
+Source of this file is taken from [here](https://github.com/HowProgrammingWorks/Profile)
 
 ⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined, 🟪 Revisit required
 
